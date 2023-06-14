@@ -11,3 +11,5 @@ func MuestroEnteros() {
 	fmt.Println("intde32 = ", intde32)
 	fmt.Println("intde64 = ", intde64)
 }
+
+//cambios
